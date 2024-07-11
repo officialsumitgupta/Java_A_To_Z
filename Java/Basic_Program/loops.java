@@ -19,7 +19,25 @@ public class loops {
         // }
 
 
-
+        // do while loop
         
+        int i=1;
+        do{
+            System.out.println("Day " + i);
+            i++;
+        }while(i <= 6);
+
+
+
+        // for loop
+
+        // for(int i = 1; i <= 5 ; i++){
+
+        //     System.out.println("DAY " + i);
+
+        //     for(int j = 1; j <= 9; j++){
+        //         System.out.println(" " + (j+8) + " - " + (j+9));
+        //     }
+        // }
     }
 }
